@@ -220,7 +220,7 @@
         <fullName>Repsol_Conflict__c</fullName>
         <externalId>false</externalId>
         <label>Repsol Conflict</label>
-        <length>255</length>
+        <length>100</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
