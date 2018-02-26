@@ -217,6 +217,16 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Repsol_Conflict__c</fullName>
+        <externalId>false</externalId>
+        <label>Repsol Conflict</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>SLAExpirationDate__c</fullName>
         <externalId>false</externalId>
         <label>SLA Expiration Date</label>
