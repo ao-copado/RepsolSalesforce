@@ -80,6 +80,37 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Case_Category__c</fullName>
+        <externalId>false</externalId>
+        <label>Case Category</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>T1</fullName>
+                    <default>false</default>
+                    <label>T1</label>
+                </value>
+                <value>
+                    <fullName>T2</fullName>
+                    <default>false</default>
+                    <label>T2</label>
+                </value>
+                <value>
+                    <fullName>T3</fullName>
+                    <default>false</default>
+                    <label>T3</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>ClosedDate</fullName>
         <trackTrending>false</trackTrending>
     </fields>
